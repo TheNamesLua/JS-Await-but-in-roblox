@@ -1,5 +1,5 @@
 --[[
-DOCUMENTATION: https://github.com/TheNamesLua/JS-Await-but-in-roblox/blob/main/README.md
+DOCUMENTATION: https://github.com/TheNamesLua/JS-Await-but-in-roblox
 ]]
 local module = {}
 module.__index = module
